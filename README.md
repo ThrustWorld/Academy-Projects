@@ -18,7 +18,7 @@ Videogames prototypes done during my academic years using C# as programming lang
 <h2>3.Lander</h2> <br/>
 
 ![LANDER](Images/Lander.PNG) <br/>
-"Lander" is a game where you you have to land your shuttle without destroying it.<br/>
+"Lander" is a game where you have to land your shuttle without destroying it.<br/>
 <b>Library:</b> Aiv_Fast2D.<br/>
 <b>Commands:</b> Boost -> UpArrow button | LeftRotation -> LeftArrow button | RightRotation -> RightArrow button.<br/>
 
