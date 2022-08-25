@@ -13,20 +13,20 @@ Videogames prototypes done during my academic years using C# as programming lang
 
 <h2>3.Lander</h2> <br/>
 "Lander" is a game where you you have to land your shuttle wtihout destroying it.<br/>
-<b>Library:</b> Aiv_Fast2D<br/>
+<b>Library:</b> Aiv_Fast2D.<br/>
 <b>Commands:</b> Boost -> UpArrow button | LeftRotation -> LeftArrow button | RightRotation -> RightArrow button.<br/>
 
 <h2>4.SpaceShooter</h2> <br/>
 "SpaceShooter" is an arcade space shooter game.<br/>
-<b>Library:</b> Aiv_Fast2D<br/>
+<b>Library:</b> Aiv_Fast2D.<br/>
 <b>Commands:</b> Shoot/Skip scene -> SpaceBar button | Left -> A button | Right -> D button | Up -> W button | Down -> S button.<br/>
 
 <h2>5.Smoker</h2> <br/>
 "Smoker" is a survival game where you fight infinite enemies hordes.<br/>
-<b>Library:</b> Aiv_Fast2D<br/>
+<b>Library:</b> Aiv_Fast2D.<br/>
 <b>Commands:</b> Shoot -> LeftMouse button | Jump -> W button | Left -> A button | Right -> D button.<br/>
 
 <h2>6.Boids</h2> <br/>
 "Boids" is a simulatiom subject to birds storm behaviour during the flight.<br/>
-<b>Library:</b> Aiv_Fast2D<br/>
+<b>Library:</b> Aiv_Fast2D.<br/>
 <b>Commands:</b> Click -> LeftMouse button.<br/>
