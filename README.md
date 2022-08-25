@@ -39,6 +39,6 @@ Videogames prototypes done during my academic years using C# as programming lang
 <h2>6.Boids</h2> <br/>
 
 ![BOIDS](Images/Boids.PNG) <br/>
-"Boids" is a simulatiom subject to birds storm behaviour during the flight.<br/>
+"Boids" is a simulation subject to birds storm behaviour during the flight.<br/>
 <b>Library:</b> Aiv_Fast2D.<br/>
 <b>Commands:</b> Click -> LeftMouse button.<br/>
