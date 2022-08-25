@@ -2,7 +2,8 @@
 Videogames prototypes done during my academic years using C# as programming language and Aiv_Draw and Aiv_Fast2D as libraries.<br/>
 
 <h2>1.Memory</h2> <br/>
-![](Images/Memory.PNG) <br/>
+![immagine](https://user-images.githubusercontent.com/55359583/186744710-5dedc229-1d3e-4678-b4b6-3a3317b4f70d.png)
+
 "Memory" is a memory game simulatioh where you can choose the number of cards selecting the amount of rows and columns.<br/>
 <b>Library:</b> Aiv_Draw.<br/>
 <b>Commands:</b> Click -> LeftMouse button.<br/>
